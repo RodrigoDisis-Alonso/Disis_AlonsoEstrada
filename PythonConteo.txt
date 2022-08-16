@@ -1,0 +1,2 @@
+numb = list(range(22))
+print("",numb)
