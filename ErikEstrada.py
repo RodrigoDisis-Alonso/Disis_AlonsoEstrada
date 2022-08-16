@@ -7,5 +7,7 @@ Created on Tue Aug 16 11:04:56 2022
 
 #ACTIVIDAD 2
 
-num=list (range(22))
-print("Erik Estrada Edad", num)
+
+num = 22
+for i in range (1, num+1):
+    print(" ",num-i)
